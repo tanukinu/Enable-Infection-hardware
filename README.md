@@ -6,10 +6,6 @@ This is a personal program. If called from an unauthorized process, it will halt
 
 -English-
 This repository will shut down the hardware if cloned via Git from any program other than the authorized one.
-<details>
-<summary>one.</summary>
 
-JP:そんなプログラムはないのでハッタリです
-EN:There's no such program, so it's a lie.
-
-</details>
+<!-- JP:そんなプログラムはないのでハッタリです
+EN:There's no such program, so it's a lie. -->
